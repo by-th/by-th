@@ -8,6 +8,6 @@ I obsess over the player experience: how fast a deposit lands, whether an offer 
 
 On the side I made [brew.md](https://brew.md), a study page with a clock, a timer and ambient sound.
 
-Off the clock I play a lot of games: top 5 Shaco in the world in League of Legends, Grandmaster in Teamfight Tactics and StarCraft II, and top 200 Legend in Hearthstone, where I also made the Tespa North America semifinals.
+Off the clock I play a lot of games: top 5 Shaco in the world in League of Legends, Grandmaster in Teamfight Tactics (TFT) and StarCraft II (SC2), and top 200 Legend in Hearthstone, where I also made the Tespa North America semifinals.
 
 Before Kizzy I co-founded Interlace, which was acquired. Earlier I worked on privacy at Uber and Click Therapeutics and started out at KPMG as a technology consultant.
