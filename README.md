@@ -1,11 +1,10 @@
-I lead GTM at [Kizzy](https://kizzy.io), where I'm co-founder and CEO, and build most of our growth stack myself with Claude Code. More about me at [t-h.xyz](https://t-h.xyz).
+I lead GTM at [Kizzy](https://kizzy.io), where I'm co-founder and CEO, and engineered most of our growth stack myself. More about me at [t-h.xyz](https://t-h.xyz).
 
 Some of what I've built:
 
-- [Kizzy promotions](https://promo.kizzy.io): every promo and offer page, generated from one registry in 12 languages.
-- [New player offer](https://promo.kizzy.io/newplayer): the player's biggest qualifying bet sets their free-bet tier.
-- [VIP offer builder](https://promo.kizzy.io/vip): VIPs split their own offer across bonus types and are paid as they play.
-- Player support agent: takes every ticket first, answers in 12 languages, and verifies the player in code before it looks at their account.
-- Lifecycle email: each email promises a reward and grants it automatically once the player qualifies.
-- Ads optimizer: reprices every ad spot every 30 minutes on cost per real click and cuts the spots that don't convert.
-- [brew.md](https://brew.md): a study page with a clock, a timer and ambient sound ([source](https://github.com/by-th/brew-md)).
+- **Real-time promotions and offers, optimized around LTV and UA.** Every [promo](https://promo.kizzy.io), welcome offer and VIP deal runs from one registry and ships in 12 languages. Offers size themselves to the player: a [new player's](https://promo.kizzy.io/newplayer) biggest qualifying bet sets their free-bet tier, and [VIPs build their own offer](https://promo.kizzy.io/vip) and get paid as they play. Rewards land the moment a player qualifies, with no one on the team touching them.
+- **24/7 player support agent.** Every ticket from Discord, email and the app goes to the agent first. It answers in the player's language across 12 languages, proves who they are in code before it opens their account, then pulls their deposits, bets and bonuses to give a real answer instead of a script. A person only sees money moves, security and legal. Replayed against tickets that used to need a human, it resolved 42 of 49.
+- **Player risk engine.** Every account is checked at sign-up, again before an offer pays, and again after the first deposit: shared wallets, IPs and funders, sign-up bursts, opposite-side bets, farm domains. A hit claws back unused rewards and holds the account for review, so bonus budget goes to real players instead of farms. Only reviewed, genuine first deposits are reported back to ad networks, so their bidding learns to find depositors, not freebie hunters.
+- **Lifecycle email system.** Covers the whole player journey automatically, from registration to offer sharing to retention. Each email promises a reward and grants it once the player qualifies. Across 34,422 sends, account-update emails opened at 41.4% with 8.5% clicks, against 22.1% and 0.7% for promotions.
+- **Ads optimizer.** Agents build the ads and a landing page for each one in the player's language. The optimizer reprices every ad spot every 30 minutes on cost per real click and cuts the spots that don't convert. It cuts spend on its own and holds any increase for approval.
+- **[brew.md](https://brew.md).** A study page with a clock, a timer and ambient sound ([source](https://github.com/by-th/brew-md)).
