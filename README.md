@@ -1,5 +1,5 @@
-I run [Kizzy](https://kizzy.io) and write a lot of its tooling myself with Claude Code: dashboards on our ledger, the promo and offer sites, player email, and agents that help with support and creative work.
+I do GTM engineering at [Kizzy](https://kizzy.io), where I'm co-founder and CEO. Most of what I ship is the growth stack: promo and offer pages, player email, and the dashboards we run the business on. I build nearly all of it with Claude Code.
 
-Outside Kizzy I build small things I want to use, like [brew.md](https://brew.md), a garden to study in.
+On the side I made [brew.md](https://brew.md), a study page with a clock, a timer and ambient sound.
 
-Before Kizzy I co-founded Interlace (acquired), led privacy work at Uber and Click Therapeutics, and started out at KPMG. BBA in MIS from the University of Georgia.
+Before Kizzy I co-founded Interlace, which was acquired. Earlier I worked on privacy at Uber and Click Therapeutics and started out at KPMG. MIS degree from the University of Georgia.
